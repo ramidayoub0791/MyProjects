@@ -5,7 +5,7 @@ public class exceptionDemo3 {
         public static void main(String[] args) throws Exception{
 
 
-            FileInputStream fileInputStream=new FileInputStream("");
+            FileInputStream fileInputStream=new FileInputStream("kl");
 
         }
     }
